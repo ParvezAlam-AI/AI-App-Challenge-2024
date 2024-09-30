@@ -1,0 +1,8 @@
+Language: Python
+Tools:
+1. VS Code for write codes and testing.
+2. Google Colab: Writig code and testing. 
+3. Gradio: Creating layout of the app. 
+
+Stock Market Finance Data - Yahoo Finance
+  yfinance
