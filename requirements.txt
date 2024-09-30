@@ -1,0 +1,6 @@
+Openai==0.28
+gradio
+yfinance
+pandas
+numpy
+matplolib
