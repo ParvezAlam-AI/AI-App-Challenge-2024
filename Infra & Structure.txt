@@ -1,0 +1,15 @@
+Language: Python
+Tools:
+1. VS Code for write codes and testing.
+2. Google Colab: Writig code and testing. 
+3. Gradio: Creating layout of the app. 
+
+Stock Market Finance Data - Yahoo Finance
+  yfinance
+
+yfinance is a python module so i do not need api key or any secrete key to use it. The data could not be always used for latest information of stock. It will have 5 min delay. 
+
+OpenAI - Key is alredy setup
+Gradio - No key required
+Hugging Face - Key already setup
+Spaes - Account created. 
