@@ -1,6 +1,10 @@
-Openai==0.28
+requests
 gradio
+openai==0.28 
+python-dotenv
 yfinance
-pandas
+plotly
 numpy
-matplolib
+pandas
+matplotlib
+requests
